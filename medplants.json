@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Chamomile",
+        "description" : "Considered by some to be a cure-all, chamomile is commonly used in the U.S. as ananxiolytic and sedative for anxiety and relaxation. It is used in Europe for wound healing and to reduce inflammation or swelling. Few studies have looked at how well it works for any condition. Chamomile is used as a tea or applied as a compress. It is considered safe by the FDA. It may increase drowsiness caused by medicines or other herbs or supplements. Chamomile may interfere with the way the body uses some medicines, causing too high a level of the medicine in some people. As with any medicinal herb, talk with your healthcare provider before taking it."
+    },
+    {
+        "name" : "Echinacea",
+        "description" : "Echinacea is commonly used to treat or prevent colds, flu, and infections, and for wound healing. More than 25 published studies looked at how well Echinacea worked to prevent or shorten the course of a cold, but none were conclusive. A 2014 study compared Echinacea with a placebo for treating colds. Results found that Echinacea did not have any effect on a cold. Other studies have also shown that long-term use can affect the body's immune system. It should not be used with medicines that can cause liver problems. People allergic to plants in the daisy family may be more likely to have an allergic reaction to Echinacea. The daisy family includes ragweed, chrysanthemums, marigolds, and daisies."
+    },
+    {
+        "name" : "Feverfew",
+        "description" : "Feverfew was traditionally used to treat fevers. It is now commonly used to prevent migraines and treat arthritis. Some research has shown that certain feverfew preparations can prevent migraines. Side effects include mouth ulcers and digestive irritation. People who suddenly stop taking feverfew for migraines may have their headaches return. Feverfew should not be used with nonsteroidal anti-inflammatory medicines because these medicines may change how well feverfew works. It should not be used with warfarin or other anticoagulant medicines."
+    },
+    {
+        "name" : "Garlic",
+        "description" : "Garlic is used for lowering cholesterol and blood pressure. It has antimicrobial effects. Reports from small, short-term, and poorly described studies show that it may cause small reductions in total and LDL cholesterol. But German research results on garlic's cholesterol-lowering effect have been distorted for a positive effect, the FDA says. Researchers are currently exploring garlic's possible role in preventing cancer. The FDA considers garlic safe. It should not be used with warfarin, because large amounts of garlic may affect clotting. For the same reason, large amounts should not be taken before dental procedures or surgery."
+    },
+    {
+        "name" : "Ginger",
+        "description" : "Ginger is used to ease nausea and motion sickness. Research suggests that ginger can relieve nausea caused by pregnancy or chemotherapy. Other areas under investigation are in surgery and for nausea caused by motion. Reported side effects include bloating, gas, heartburn, and nausea."
+    },
+    {
+        "name" : "Gingko",
+        "description" : "Ginkgo leaf extract has been used to treat a variety of conditions such as asthma, bronchitis, fatigue, and tinnitus. It is also used to improve memory and to prevent dementia and other brain disorders. Some studies have supported its slight effectiveness. But exactly how gingko works isn't understood. Only extract from leaves should be used. Seeds contain ginkgo toxin. This toxin can cause seizures and, in large amounts, death. Because some information suggests that ginkgo can increase the risk of bleeding, it should not be used with nonsteroidal anti-inflammatory medicines, anticoagulants, anticonvulsant medicines, or tricyclic antidepressants."
+    },
+    {
+        "name" : "Ginseng",
+        "description" : "Ginseng is used as a tonic and aphrodisiac, even as a cure-all. Research is uncertain how well it works, partly because of the difficulty in defining 'vitality' and 'quality of life.' There is a large variation in the quality of ginseng sold. Side effects are high blood pressure and tachycardia. It's considered safe by the FDA, but shouldn't be used with warfarin, heparin, nonsteroidal anti-inflammatory medicines, estrogens, corticosteroids, or digoxin. People with diabetes should not use ginseng."
+    },
+    {
+        "name" : "Goldanseal",
+        "description" : "Goldenseal is used to treat diarrhea, and eye and skin irritations. It is also used as an antiseptic. It is also an unproven treatment for colds. Goldenseal contains berberine, a plant alkaloid with a long history of medicinal use in both Ayurvedic and Chinese medicine. Studies have shown that goldenseal is effective for diarrhea. But it's not recommended because it can be poisonous in high doses. It can cause skin, mouth, throat, and gastric irritation. It is also not recommended because of the plant's endangered species status."
+    },
+    {
+        "name" : "Milk thisle",
+        "description" : "Milk thistle is used to treat liver conditions and high cholesterol, and to reduce the growth of cancer cells. Milk thistle is a plant that originated in the Mediterranean region. It has been used for many different illnesses over the last several thousand years, especially liver problems. Although study results are uncertain, some promising information exists."
+    },
+    {
+        "name" : "Saint John's wort",
+        "description" : "Saint John's wort is used as an antidepressant. Recent studies have not confirmed that there is more than a slight effect on depression. More research is needed to determine the best dose. A side effect is sensitivity to light, but this is only noted in people taking large doses of the herb. St. John's work can cause a dangerous interaction with other commonly used medicines. Always talk with your healthcare provider before using this herb."
+    },
+    {
+        "name" : "Saw palmetto",
+        "description" : "Saw palmetto is used to treat benign prostatic hypertrophy (BPH). But recent studies have not found it to work well for this condition. Side effects are digestive upset and headache, both mild."
+    },
+    {
+        "name" : "Valerian",
+        "description" : "Valerian is used to treat sleeplessness and to reduce anxiety. Research suggests that valerian may be a helpful sleep aid, but there are no well-designed studies to confirm the results. In the U.S., valerian is used as a flavoring for root beer and other foods. As with any medicinal herb, talk with your healthcare provider before taking it."
+    }
+]
